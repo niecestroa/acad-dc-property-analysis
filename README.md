@@ -17,6 +17,34 @@ The work reflects professional competencies in:
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/niecestroa/acad-dc-property-analysis.git
+
+cd acad-dc-property-analysis
+
+pip install -r requirements.txt
+```
+
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Statistical Inference
+- Regression Analysis
+- Predictive Modeling
+- Model Selection
+- Housing Market Analysis
+- Urban Data Analytics
+- Data Visualization
+- Feature Engineering
+- Python Programming
+- Statistical Research
+- Reproducible Research
+
+---
+
 ## **Project Index**
 
 ### **1. Generalized Linear Regression Model**
@@ -54,6 +82,13 @@ The work reflects professional competencies in:
 ### **5. Bayesian Housing Price Model Using R Stan**
 - Conducted: January 2024 – May 2024  
 - Modern Bayesian modeling using Stan’s HMC/NUTS algorithms  
-- Hierarchical structure, posterior predictive checks, and model evaluation  
+- Hierarchical structure, posterior predictive checks, and model evaluation
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 - **Repository:** [Bayesian – R Stan](https://github.com/niecestroa/acad-dc-property-analysis/tree/main/bayesian/r-stan)
 - 
